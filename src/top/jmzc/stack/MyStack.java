@@ -3,7 +3,7 @@ package top.jmzc.stack;
 import java.util.Arrays;
 
 /**
- * 使用数组模拟栈：先进后出(后进先出)的特点
+ * 使用数组模拟栈：先进后出(后进先出)的特点，顺序存储
  * @author sunyu
  *
  */
