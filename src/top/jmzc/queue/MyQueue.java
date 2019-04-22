@@ -52,6 +52,10 @@ public class MyQueue {
 		return temp;
 	}
 
+	/**
+	 * 空值判断
+	 * @return
+	 */
 	public boolean isEmpty() {
 		return arr.length == 0;
 	}
